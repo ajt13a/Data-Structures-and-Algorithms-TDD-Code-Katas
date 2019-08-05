@@ -1,0 +1,17 @@
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.dll
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.csproj.CoreCompileInputs.cache
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.AssemblyInfoInputs.cache
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.AssemblyInfo.cs
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.csprojAssemblyReference.cache
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.deps.json
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.runtimeconfig.json
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.runtimeconfig.dev.json
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.dll
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.pdb
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.pdb
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.csproj.CopyComplete
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.dll
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.pdb

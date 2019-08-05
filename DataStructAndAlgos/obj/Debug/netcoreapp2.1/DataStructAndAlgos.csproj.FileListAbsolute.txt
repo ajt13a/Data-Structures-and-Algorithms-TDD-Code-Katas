@@ -1,0 +1,11 @@
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\bin\Debug\netcoreapp2.1\DataStructAndAlgos.deps.json
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\bin\Debug\netcoreapp2.1\DataStructAndAlgos.runtimeconfig.json
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\bin\Debug\netcoreapp2.1\DataStructAndAlgos.runtimeconfig.dev.json
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\bin\Debug\netcoreapp2.1\DataStructAndAlgos.dll
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\bin\Debug\netcoreapp2.1\DataStructAndAlgos.pdb
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.csprojAssemblyReference.cache
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.csproj.CoreCompileInputs.cache
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.AssemblyInfoInputs.cache
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.AssemblyInfo.cs
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.dll
+P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.pdb
