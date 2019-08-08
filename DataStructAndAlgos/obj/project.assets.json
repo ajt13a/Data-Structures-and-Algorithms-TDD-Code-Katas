@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\Unencrypted Folder\\my_code\\C#\\TDD\\DataStructAndAlgos\\DataStructAndAlgos\\DataStructAndAlgos.csproj",
+      "projectUniqueName": "C:\\Users\\J62340\\Documents\\Data-Structures-and-Algorithms-TDD-Code-Katas\\DataStructAndAlgos\\DataStructAndAlgos.csproj",
       "projectName": "DataStructAndAlgos",
-      "projectPath": "P:\\Unencrypted Folder\\my_code\\C#\\TDD\\DataStructAndAlgos\\DataStructAndAlgos\\DataStructAndAlgos.csproj",
+      "projectPath": "C:\\Users\\J62340\\Documents\\Data-Structures-and-Algorithms-TDD-Code-Katas\\DataStructAndAlgos\\DataStructAndAlgos.csproj",
       "packagesPath": "C:\\Users\\J62340\\.nuget\\packages\\",
-      "outputPath": "P:\\Unencrypted Folder\\my_code\\C#\\TDD\\DataStructAndAlgos\\DataStructAndAlgos\\obj\\",
+      "outputPath": "C:\\Users\\J62340\\Documents\\Data-Structures-and-Algorithms-TDD-Code-Katas\\DataStructAndAlgos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

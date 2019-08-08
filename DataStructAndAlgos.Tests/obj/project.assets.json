@@ -5879,11 +5879,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\Unencrypted Folder\\my_code\\C#\\TDD\\DataStructAndAlgos\\DataStructAndAlgos.Tests\\DataStructAndAlgos.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\J62340\\Documents\\Data-Structures-and-Algorithms-TDD-Code-Katas\\DataStructAndAlgos.Tests\\DataStructAndAlgos.Tests.csproj",
       "projectName": "DataStructAndAlgos.Tests",
-      "projectPath": "P:\\Unencrypted Folder\\my_code\\C#\\TDD\\DataStructAndAlgos\\DataStructAndAlgos.Tests\\DataStructAndAlgos.Tests.csproj",
+      "projectPath": "C:\\Users\\J62340\\Documents\\Data-Structures-and-Algorithms-TDD-Code-Katas\\DataStructAndAlgos.Tests\\DataStructAndAlgos.Tests.csproj",
       "packagesPath": "C:\\Users\\J62340\\.nuget\\packages\\",
-      "outputPath": "P:\\Unencrypted Folder\\my_code\\C#\\TDD\\DataStructAndAlgos\\DataStructAndAlgos.Tests\\obj\\",
+      "outputPath": "C:\\Users\\J62340\\Documents\\Data-Structures-and-Algorithms-TDD-Code-Katas\\DataStructAndAlgos.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5903,8 +5903,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "P:\\Unencrypted Folder\\my_code\\C#\\TDD\\DataStructAndAlgos\\DataStructAndAlgos\\DataStructAndAlgos.csproj": {
-              "projectPath": "P:\\Unencrypted Folder\\my_code\\C#\\TDD\\DataStructAndAlgos\\DataStructAndAlgos\\DataStructAndAlgos.csproj"
+            "C:\\Users\\J62340\\Documents\\Data-Structures-and-Algorithms-TDD-Code-Katas\\DataStructAndAlgos\\DataStructAndAlgos.csproj": {
+              "projectPath": "C:\\Users\\J62340\\Documents\\Data-Structures-and-Algorithms-TDD-Code-Katas\\DataStructAndAlgos\\DataStructAndAlgos.csproj"
             }
           }
         }

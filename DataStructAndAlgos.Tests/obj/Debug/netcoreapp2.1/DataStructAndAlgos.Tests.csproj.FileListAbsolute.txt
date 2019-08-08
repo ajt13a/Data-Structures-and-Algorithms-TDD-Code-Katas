@@ -15,3 +15,20 @@ P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests
 P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.csproj.CopyComplete
 P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.dll
 P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.pdb
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.deps.json
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.runtimeconfig.json
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.runtimeconfig.dev.json
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.dll
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.pdb
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.dll
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\bin\Debug\netcoreapp2.1\DataStructAndAlgos.pdb
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.csprojAssemblyReference.cache
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.csproj.CoreCompileInputs.cache
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.AssemblyInfoInputs.cache
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.AssemblyInfo.cs
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.csproj.CopyComplete
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.dll
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos.Tests\obj\Debug\netcoreapp2.1\DataStructAndAlgos.Tests.pdb

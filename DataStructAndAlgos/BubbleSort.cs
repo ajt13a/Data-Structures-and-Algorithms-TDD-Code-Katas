@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DataStructAndAlgos
+﻿namespace DataStructAndAlgos
 {
     public class BubbleSort
     {

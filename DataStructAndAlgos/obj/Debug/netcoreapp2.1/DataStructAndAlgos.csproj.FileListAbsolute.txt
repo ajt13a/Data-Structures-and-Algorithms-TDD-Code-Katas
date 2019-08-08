@@ -9,3 +9,14 @@ P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\obj\D
 P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.AssemblyInfo.cs
 P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.dll
 P:\Unencrypted Folder\my_code\C#\TDD\DataStructAndAlgos\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.pdb
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos\bin\Debug\netcoreapp2.1\DataStructAndAlgos.deps.json
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos\bin\Debug\netcoreapp2.1\DataStructAndAlgos.runtimeconfig.json
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos\bin\Debug\netcoreapp2.1\DataStructAndAlgos.runtimeconfig.dev.json
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos\bin\Debug\netcoreapp2.1\DataStructAndAlgos.dll
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos\bin\Debug\netcoreapp2.1\DataStructAndAlgos.pdb
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.csprojAssemblyReference.cache
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.csproj.CoreCompileInputs.cache
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.AssemblyInfoInputs.cache
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.AssemblyInfo.cs
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.dll
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructAndAlgos\obj\Debug\netcoreapp2.1\DataStructAndAlgos.pdb
