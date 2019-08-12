@@ -1,0 +1,11 @@
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructuresAndAlgorithms\bin\Debug\netcoreapp2.1\DataStructuresAndAlgorithms.deps.json
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructuresAndAlgorithms\bin\Debug\netcoreapp2.1\DataStructuresAndAlgorithms.runtimeconfig.json
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructuresAndAlgorithms\bin\Debug\netcoreapp2.1\DataStructuresAndAlgorithms.runtimeconfig.dev.json
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructuresAndAlgorithms\bin\Debug\netcoreapp2.1\DataStructuresAndAlgorithms.dll
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructuresAndAlgorithms\bin\Debug\netcoreapp2.1\DataStructuresAndAlgorithms.pdb
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructuresAndAlgorithms\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructuresAndAlgorithms\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithms.AssemblyInfoInputs.cache
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructuresAndAlgorithms\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithms.AssemblyInfo.cs
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructuresAndAlgorithms\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithms.dll
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructuresAndAlgorithms\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithms.pdb
+C:\Users\J62340\Documents\Data-Structures-and-Algorithms-TDD-Code-Katas\DataStructuresAndAlgorithms\obj\Debug\netcoreapp2.1\DataStructuresAndAlgorithms.csprojAssemblyReference.cache
