@@ -30,6 +30,15 @@ namespace DataStructuresAndAlgorithms.Tests
         }
 
         [Fact]
+        public void InsertionSort_GivenArrayOfThreeElement_ReturnsSortedArray()
+        {
+            int[] input = new int[] { 2, 3, 1 };
+            int[] expected = new int[] { 1, 2, 3 };
+            int[] actual = InsertionSort.Sort(input);
+            Assert.Equal(expected, actual);
+        }
+
+        [Fact]
         public void InsertionSort_GivenArrayOfManyElements_ReturnsSortedArray()
         {
             int[] input = new int[] { 2, 1, 8, 4, 55, 22, 0, 29, 11 };

@@ -12,8 +12,12 @@ namespace DataStructuresAndAlgorithms
             PrintArray(testArray);
 
             Console.Write("BubbleSorted array: { ");
-            testArray = BubbleSort.Sort(testArray);
-            PrintArray(testArray);
+            int[] resultBubbleSortArray = BubbleSort.Sort(testArray);
+            PrintArray(resultBubbleSortArray);
+
+            Console.Write("InsertionSorted array: { ");
+            int[] resultInsertionSortArray = BubbleSort.Sort(testArray);
+            PrintArray(resultInsertionSortArray);
 
             Console.ReadKey();
         }
